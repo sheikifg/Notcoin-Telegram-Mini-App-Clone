@@ -1,6 +1,6 @@
-# Notcoin Clone
+# Bittap
 
-This repository contains the initial setup and the final version of the Notcoin clone project, including the basic project structure, necessary images, and icons.
+This repository contains the initial setup and the final version of the bittap project, including the basic project structure, necessary images, and icons.
 
 ## Overview
 
@@ -72,5 +72,5 @@ To get started with either the initial setup or the final version, follow these 
 
 ## Contact
 
-For any inquiries, please contact me in Telegram: [Nikandr Surkov](https://t.me/nikandr_s).
+For any inquiries, please contact me in Telegram:).
 
